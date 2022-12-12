@@ -1,0 +1,18 @@
+body{
+    background: url(../image/pixbay-treejpg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;  
+
+}
+
+header{
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 0px;
+
+}
+header h1{
+    color: gold;
+}
